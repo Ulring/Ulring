@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anass Soulimani</h1>
-<h3 align="center">Currently I am a student in Computer Science in Morocco.</h3>
+<h3 align="center">Currently I am a student interested in Computer Science From Morocco.</h3>
 
 - 🔥 I'm trying to learn as much as I can from [Handmade hero](https://www.youtube.com/c/MollyRocket)
 
