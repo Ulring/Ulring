@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anass Soulimani</h1>
 <h3 align="center">I am a Computer Science student From Morocco.</h3>
 
-- 🌱 I’m currently learning **Graphics Programming.**
+- 🌱 I’m currently learning: **C and C++ Graphics Programming.**
 
-- 📫 How to reach me **anasssoulimani@gmail.com**
+- 📫 How to reach me: **anasssoulimani@gmail.com**
 
-- ⚡ Fun fact **The terms big-endian and little-endian came from Gulliver's Travels.**
+- ⚡ Fun fact: **The terms big-endian and little-endian came from Gulliver's Travels.**
 
 
 <h3 align="left">Languages and Tools:</h3>
