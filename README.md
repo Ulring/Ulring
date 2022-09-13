@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently interested in: **Computer vision and graphics programming.**
 
-- 📫 Don't hesitate to contact me at **anasssoulimani@gmail.com** or on **[Twitter](https://twitter.com/AnassSoulimani)**
+- 📫 Don't hesitate to contact me at **anasssoulimani@gmail.com** or on **[Twitter](https://twitter.com/AnassSoulimani)**.
 
-- 🔭 I made a list of cool and interesting websites you should **[check out](https://ulring.github.io/)**
+- 🔭 I made a list of cool and interesting websites you should **[check out](https://ulring.github.io/)**.
 
 - ⚡ I wanted to make a joke about HTTP request methods, but I'm sure you won't **GET** it. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
